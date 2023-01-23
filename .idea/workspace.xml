@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376105fa-e79d-4922-bba0-942a098fed1c" name="Changes" comment="Implemented LinkedList">
-      <change afterPath="$PROJECT_DIR$/src/DoublyLinkyList.java" afterDir="false" />
+    <list default="true" id="376105fa-e79d-4922-bba0-942a098fed1c" name="Changes" comment="Implemented DoublyLinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglyLinkyList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <workItem from="1674328796212" duration="1510000" />
       <workItem from="1674330700760" duration="23000" />
       <workItem from="1674330739311" duration="40000" />
-      <workItem from="1674330786178" duration="4516000" />
+      <workItem from="1674330786178" duration="5350000" />
     </task>
     <task id="LOCAL-00001" summary="setting up">
       <created>1674328855277</created>
@@ -71,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674332961274</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implemented DoublyLinkedList">
+      <created>1674335332734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674335332734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setting up" />
     <MESSAGE value="Implemented LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented LinkedList" />
+    <MESSAGE value="Implemented DoublyLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented DoublyLinkedList" />
   </component>
 </project>
