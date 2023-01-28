@@ -4,7 +4,7 @@ public class ArrayStack<E> extends Stack<E> {
 
     public static final int CAPACITY = 1000;  // Default array capacity
     private E[] data;                         // Generic array used for storage
-    private int top = -1;                     // index of top element in the stack
+    private int top = -1;                     // index of top element in the stack (think index of last element)
 
     public ArrayStack(){                      // Constructs stack with default capacity
         this(CAPACITY);
@@ -25,20 +25,21 @@ public class ArrayStack<E> extends Stack<E> {
 
     public E push(E e) throws IllegalStateException{
         if(size() == data.length) throw new IllegalStateException("Stack is full");
-        data[++top] = e;
-        return e;
+        data[++top] = e;   // increment top index before storing new item
     }
 
     public E top(){
         if (isEmpty()) {
             return null;
-        } return data[top];
+        }
+        return data[top];
     }
 
     public E pop(){
-        if (isEmpty()) return null;
+        if (isEmpty())
+            return null;
         E answer = data[top];
-        data[top] = null;
+        data[top] = null;          // dereference to help garbage collection
         top--;
         return answer;
     }
