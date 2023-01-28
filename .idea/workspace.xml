@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376105fa-e79d-4922-bba0-942a098fed1c" name="Changes" comment="Implemented DoublyLinkedList">
+      <change afterPath="$PROJECT_DIR$/src/CircularlyLinkyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinglyLinkyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglyLinkyList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1674834477448" duration="1625000" />
       <workItem from="1674836131258" duration="652000" />
       <workItem from="1674862832709" duration="2956000" />
-      <workItem from="1674929966903" duration="1484000" />
+      <workItem from="1674929966903" duration="3538000" />
     </task>
     <task id="LOCAL-00001" summary="setting up">
       <created>1674328855277</created>
