@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376105fa-e79d-4922-bba0-942a098fed1c" name="Changes" comment="Implemented DoublyLinkedList">
-      <change afterPath="$PROJECT_DIR$/src/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSortExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,10 @@
       <workItem from="1674834477448" duration="1625000" />
       <workItem from="1674836131258" duration="652000" />
       <workItem from="1674862832709" duration="2956000" />
-      <workItem from="1674929966903" duration="8453000" />
+      <workItem from="1674929966903" duration="8550000" />
+      <workItem from="1675124230354" duration="644000" />
+      <workItem from="1675134618124" duration="2554000" />
+      <workItem from="1675145965731" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="setting up">
       <created>1674328855277</created>
