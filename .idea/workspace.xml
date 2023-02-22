@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376105fa-e79d-4922-bba0-942a098fed1c" name="Changes" comment="Implemented DoublyLinkedList">
-      <change afterPath="$PROJECT_DIR$/src/leastInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVAProgram/PalindromeExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="PalindromeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAProgram.PalindromeExample" />
+      <module name="Playground2011" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PalindromeExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,6 +94,7 @@
       <workItem from="1675134618124" duration="2554000" />
       <workItem from="1675145965731" duration="328000" />
       <workItem from="1676752381755" duration="254000" />
+      <workItem from="1677109544057" duration="217000" />
     </task>
     <task id="LOCAL-00001" summary="setting up">
       <created>1674328855277</created>
