@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376105fa-e79d-4922-bba0-942a098fed1c" name="Changes" comment="Implemented DoublyLinkedList">
-      <change afterPath="$PROJECT_DIR$/src/JAVAProgram/SumofElements_2DArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVAProgram/SumofElements_2DArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +93,10 @@
       <workItem from="1676752381755" duration="254000" />
       <workItem from="1677109544057" duration="217000" />
       <workItem from="1677872211577" duration="201000" />
+      <workItem from="1677872421946" duration="748000" />
+      <workItem from="1677910828149" duration="3000" />
+      <workItem from="1677912300475" duration="7000" />
+      <workItem from="1678652298991" duration="1523000" />
     </task>
     <task id="LOCAL-00001" summary="setting up">
       <created>1674328855277</created>
