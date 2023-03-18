@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376105fa-e79d-4922-bba0-942a098fed1c" name="Changes" comment="Implemented DoublyLinkedList">
-      <change afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IBM/BinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IBM/MinLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -53,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree$createBinaryTree">
+  <component name="RunManager">
     <configuration name="BinaryTree$createBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTree$createBinaryTree" />
       <module name="Playground2011" />
@@ -108,7 +109,10 @@
       <workItem from="1677872421946" duration="748000" />
       <workItem from="1677910828149" duration="3000" />
       <workItem from="1677912300475" duration="7000" />
-      <workItem from="1678652298991" duration="8872000" />
+      <workItem from="1678652298991" duration="9649000" />
+      <workItem from="1679157842750" duration="330000" />
+      <workItem from="1679158197511" duration="58000" />
+      <workItem from="1679158262471" duration="440000" />
     </task>
     <task id="LOCAL-00001" summary="setting up">
       <created>1674328855277</created>
@@ -143,5 +147,9 @@
     <MESSAGE value="Implemented LinkedList" />
     <MESSAGE value="Implemented DoublyLinkedList" />
     <option name="LAST_COMMIT_MESSAGE" value="Implemented DoublyLinkedList" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
