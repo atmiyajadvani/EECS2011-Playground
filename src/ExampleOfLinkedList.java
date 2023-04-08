@@ -21,7 +21,6 @@ public class ExampleOfLinkedList
         ref1 = list.get(1);
         ref2 = list.get(5);
 
-        list = list.
 
         System.out.println();
     }
